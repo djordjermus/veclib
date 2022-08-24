@@ -664,15 +664,15 @@ namespace veclib {
 
 	// Type aliases
 
-	using mdouble	= matrix4x4<double>;
-	using v4double	= vector4<double>;
-	using v3double	= vector3<double>;
-	using v2double	= vector2<double>;
+	using mf64	= matrix4x4<double>;
+	using v4f64	= vector4<double>;
+	using v3f64	= vector3<double>;
+	using v2f64	= vector2<double>;
 
-	using mfloat	= matrix4x4<float>;
-	using v4float	= vector4<float>;
-	using v3float	= vector3<float>;
-	using v2float	= vector2<float>;
+	using mf32	= matrix4x4<float>;
+	using v4f64	= vector4<float>;
+	using v3f64	= vector3<float>;
+	using v2f64	= vector2<float>;
 
 	using mu64	= matrix4x4<unsigned long long>;
 	using v4u64	= vector4<unsigned long long>;
