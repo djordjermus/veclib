@@ -670,9 +670,9 @@ namespace veclib {
 	using v2f64	= vector2<double>;
 
 	using mf32	= matrix4x4<float>;
-	using v4f64	= vector4<float>;
-	using v3f64	= vector3<float>;
-	using v2f64	= vector2<float>;
+	using v4f32	= vector4<float>;
+	using v3f32	= vector3<float>;
+	using v2f32	= vector2<float>;
 
 	using mu64	= matrix4x4<unsigned long long>;
 	using v4u64	= vector4<unsigned long long>;
